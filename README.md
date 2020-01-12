@@ -1,11 +1,11 @@
-# pre-class
+# Statistical Programming in R
 
+This is a compilation of the coursework I completed for Statistical Programming in R (PHP2560) at Brown University. This includes pre-class work and in class work. This class made use of a flipped format.
 
-This folder will be where you complete your pre-class each week. The first time you access this through github classroom, you will make a private individual git repository for yourself. Then each week you will add a folder in here for the new pre-class work. 
+# Description
 
-Before you continue, Edit this document with:
+Data Management, data types, data cleaning and manipulation, databases, graphics, functions, loops, simulation and Markov Chain Monte Carlo, and other various statistical analysis.
 
+# Authors
 
-- Preferred Name: _________________________________
-- Brown Name: ___________________________
-- Brown E-mail: ______________________
+Aly Singleton
